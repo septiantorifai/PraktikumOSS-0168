@@ -1,1 +1,3 @@
-Septianto Rifai : G.231.20.0168 : Semarang
+Septianto Rifai : G231.20.0168 : Semarang
+Mata Kuliah : Open Source System
+Catatan : Praktikum dengan menggunakan GIT 
